@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <size android:height="@dimen/btn_size" android:width="@dimen/btn_size"/>
+    <!--@dimen/btn_size is in strings.xml-->
+    <solid android:color="#f4de15"/>
+    <corners android:radius="@dimen/btn_size" />
+
+</shape>
